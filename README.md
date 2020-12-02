@@ -1,2 +1,2 @@
 # EDA
-Preliminary EDA on Telecom Churn dataset using Python
+Preliminary EDA on datasets using Python
